@@ -3,7 +3,6 @@
 // https://thecodingtrain.com/TeachableMachine/3-teachable-audio
 // https://editor.p5js.org/codingtrain/sketches/e3nrNMG7A
 
-
 // Storing the label
 let label = "waiting...";
 
